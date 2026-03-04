@@ -142,7 +142,7 @@ The Driver Scheduling System is a logistics management platform that enables eff
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/Ahmed-Maher77/driver-scheduling-system.git
+    git clone https://github.com/Senior-Architecture/driver-scheduling-system
     cd driver-scheduling-system
     ```
 
@@ -152,10 +152,6 @@ The Driver Scheduling System is a logistics management platform that enables eff
     # Install dependencies
     cd Backend-server
     npm install
-    # Configure your MongoDB connection string in .env
-    PORT=3001    # Port number
-    DATABASE_URL="mongodb+srv://ahmedmaheraljwhry057_db_user:<db_password>@cluster0.ldoyyda.mongodb.net/?appName=Cluster0"    # MongoDB connection string
-    # Start the server
     npm start
     ```
 
@@ -405,19 +401,10 @@ GET /get-all-drivers?page=1&limit=10&status=available&vehicleType=Car
 ## 📞 Contact
 
 **Developer**: Ahmed Maher Algohary  
-**Email**: [ahmedmaher.algohary@gmail.com](mailto:ahmedmaher.algohary@gmail.com)
+**Email**: [sabapapava.eu.2939@gmail.com](mailto:ahmedmaher.algohary@gmail.com)
 
-<!-- **Portfolio**: [https://ahmedmaher-portfolio.vercel.app/](https://ahmedmaher-portfolio.vercel.app/)   -->
-
-**LinkedIn**: [https://www.linkedin.com/in/ahmed-maher-algohary](https://www.linkedin.com/in/ahmed-maher-algohary)  
-**GitHub**: [https://github.com/Ahmed-Maher77](https://github.com/Ahmed-Maher77)
+<!-- **Portfolio**: [https://portfolio-five-gold-92.vercel.app/](https://portfolio-five-gold-92.vercel.app/)   -->
+**GitHub**: [https://github.com/Senior-Architecture](https://github.com/Senior-Architecture)
 
 ---
 
-## 📄 License
-
-This project is developed as part of the DRB Internship Program 2025. All rights reserved.
-
----
-
-**Built with ❤️ for the DRB Internship Program 2025**
